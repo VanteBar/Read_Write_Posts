@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router";
-//import './App.css'
+import './App.css'
 
 import { PageReg } from '@/pages/PageReg';
 import { PageLogin } from '@/pages/PageLogin';
